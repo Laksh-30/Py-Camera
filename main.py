@@ -31,8 +31,8 @@ def main():
     saver = ImageSaver()
 
     telegram = TelegramAlert(
-        bot_token="8677721345:AAF3Rdx8ticqtkSG-BoyaZ7hXAXkYE1Ld3Q",
-        chat_id="8277408775"
+        bot_token="",
+        chat_id=""
     )
 
     # -------------------------------
